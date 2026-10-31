@@ -1,0 +1,17 @@
+# Runtime data (personal)
+dist/data/settings.json
+dist/data/favorites.json
+
+# Local backups and temporary build files
+dist/data/backup-*/
+*.tmp
+*.log
+*.zip
+__pycache__/
+*.pyc
+
+# Build output
+dist/PromptPalette.exe
+dist/PromptPalette.ps1
+dist/PromptPalette.vbs
+提示词标签-Windows.zip
